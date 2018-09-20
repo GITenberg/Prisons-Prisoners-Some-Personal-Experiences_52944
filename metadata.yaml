@@ -1,6 +1,9 @@
 _repo: Prisons-Prisoners-Some-Personal-Experiences_52944
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'Prisons and Prisoners: Some Personal Experiences'
+covers:
+- cover_type: archival
+  image_path: 52944-h/images/cover.jpg
 creator:
   author:
     agent_name: Lytton, Constance, Lady
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47128
     wikipedia: https://en.wikipedia.org/wiki/Lady_Constance_Bulwer-Lytton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52944#Prisons-Prisoners-Some-Personal-Experiences
 gutenberg_issued: '2016-08-31'
 gutenberg_type: Text
 identifiers:
